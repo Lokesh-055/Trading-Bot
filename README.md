@@ -145,10 +145,7 @@ RESPONSE
 ![Bot Log](images/Bot-Log.png)
 ```
 
-### Bot Log
 
-```markdown
-![Bot Log](images/bot-log.png)
 ```
 
 ---

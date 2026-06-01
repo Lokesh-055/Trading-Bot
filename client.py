@@ -2,8 +2,8 @@ from binance.client import Client
 import os
 
 # Replace with your Demo/Testnet API credentials
-API_KEY = "HkUQXc26ALHUYjcs5sjUFbpzkxlhbKNynVwfz0lvVjjiscQVeIQo8mP1d2mrxwT6"
-API_SECRET = "Iu8qH5jLbSyd8WURbXm8aLr3f4cdSgnDy9mY98w4GMNuVH3chi9X50R3K88JLHka"
+API_KEY = "YOUR API KEY"
+API_SECRET = "YOUR SECRET KEY"
 
 client = Client(API_KEY, API_SECRET)
 

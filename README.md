@@ -133,20 +133,16 @@ RESPONSE
 
 ---
 
-## 📷 Project Screenshots
+## Screenshots
+
+### Successful Order Execution
+![Execution](images/Execution.png)
 
 ### Binance Futures Order History
+![Order History](images/Order-History.png)
 
-Replace the path below after uploading your screenshot to GitHub.
-
-```markdown
-![Order History](images/order-history.png)
-```
-
-### Successful Bot Execution
-
-```markdown
-![Bot Execution](images/bot-execution.png)
+### bot.log Output
+![Bot Log](images/Bot-Log.png)
 ```
 
 ### Bot Log
